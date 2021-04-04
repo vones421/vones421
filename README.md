@@ -23,7 +23,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vones421" alt="vones421" /></a></p><hr>
 
 <h3 align="center">Most used languages/technologies</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vones421&show_icons=true&locale=en&layout=compact" alt="vones421" /></p><hr>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vones421&show_icons=true&locale=en&layout=compact" alt="vones421" /></p><hr>
 
 <h3 align="center">Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vones421&show_icons=true&locale=en" alt="vones421" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vones421&show_icons=true&locale=en" alt="vones421" /></p>
